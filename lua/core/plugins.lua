@@ -17,6 +17,7 @@ return require('packer').startup(function(use)
   use 'rebelot/kanagawa.nvim'
   use 'nvim-tree/nvim-tree.lua'
   use 'nvim-tree/nvim-web-devicons'
+  use 'romgrk/barbar.nvim'
   use 'nvim-lualine/lualine.nvim'
   use {
     "williamboman/mason.nvim",
